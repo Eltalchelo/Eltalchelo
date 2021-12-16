@@ -11,13 +11,13 @@ Hi, I'm Marcelo Camargo, passionate about code from Mexico, who is currently stu
 - 💬 Ask me about anything [here](https://github.com/Eltalchelo/Eltalchelo/issues)
 
 
-[![Marcelo's GitHub
+<!--[![Marcelo's GitHub
 stats]
-<!--
+
 #(https://github-readme-stats.vercel.app/api?username=Eltalchelo&count_private=true&show_icons=true&show_icons=true)
 #<a href="https://github.com/Eltalchelo/github-readme-stats"><img align="center"
  #       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltalchelo&layout=compact&theme=buefy&hide_border=true" /></a>
-#](https://github.com/anuraghazra/github-readme-stats)-->
+#](https://github.com/anuraghazra/github-readme-stats) -->
 
 | <a href="https://github.com/eltalchelo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eltalchelo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/eltalchelo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltalchelo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
