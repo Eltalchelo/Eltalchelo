@@ -1,6 +1,7 @@
 ### Hello World 👋
 **About me**
-Hi, I'm Marcelo Camargo, passionate about code from Mexico, who is currently studying Python.
+
+Hi, I'm Marcelo Camargo, passionate about code from Mexico.
 
 - 💼 Python Student
 
