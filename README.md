@@ -28,7 +28,8 @@ stats]
 <a href="https://twitter.com/eltalchelo">
     <img align="right" alt="Anurag Hazra | Twitter" width="21px"
         src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>### Bye 👋
+</a>
+### Bye 👋
 
 <!--
 **Eltalchelo/Eltalchelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
